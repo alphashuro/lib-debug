@@ -25,7 +25,7 @@ Package.onUse(function onLibDebugUse(api) {
     ],
   };
 
-  api.use(packages);
+  api.use(packages.both);
   // api.imply(packages);
   // api.addFiles('lib-debug.js');
 });
