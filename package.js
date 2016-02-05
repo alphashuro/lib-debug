@@ -2,7 +2,7 @@
 
 Package.describe({
   name: 'alphashuro:lib-debug',
-  version: '0.0.1',
+  version: '1.0.0',
   summary: 'Adds packages needed for debugging a Meteor app.',
   debugOnly: true,
   documentation: 'README.md',
